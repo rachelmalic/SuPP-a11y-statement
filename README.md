@@ -11,8 +11,6 @@ accessibilityProblems:
 - some headings are not consistent
 - elements which are missing their labels – using a screen reader to read back the entire page will provide all the information needed
 milestones: 
-- description: The X page does not have Y and also does not display Z. This doesn't meet WCAG success criterion X.Y.Z (Criterion Description).
-date: 2021-12-15 
 - description: This service uses radio buttons which are grouped so that the page can be navigated with only the keyboard. In some places, these groups are missing their labels which means screen reading software will not read out the description of the selected element. This does not meet WCAG success criterion 2.4.6 (Headings and Labels).
 date: 2021-12-15 
 - description: We use tab titles to describe the content of our web pages. In some places, the tab titles do not match the heading of the page. This does not meet WCAG 2.1 success criterion 2.4.6 (Headings and Labels).
